@@ -1,0 +1,21 @@
+{
+    "name": "bee-r/yii2-widget-selection",
+    "description": "Расширение подбора товара в документ(корзина)",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Сычевский Максим Денисович",
+            "email": "admin@repairs24.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bee\\selection\\": ""
+        }
+    }
+}
